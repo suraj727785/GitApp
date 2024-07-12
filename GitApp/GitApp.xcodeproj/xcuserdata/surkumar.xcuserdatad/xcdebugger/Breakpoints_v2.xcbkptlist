@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F34427F-3C0F-4F4B-BF36-09D7035831F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "880EC840-A4A1-4005-9299-9E02B57BBA7E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitApp/Operations/APIHelper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "searchRepositories(query:page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE0D30AA-8574-40F0-9620-92D15008EB66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitApp/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "loadSavedData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE0D30AA-8574-40F0-9620-92D15008EB66 - 85827ad42d1746f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitApp.HomeViewModel.loadSavedData() -&gt; ()"
+                  moduleName = "GitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surkumar/Documents/Code/GitApp/GitApp/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "EE0D30AA-8574-40F0-9620-92D15008EB66 - c1cd9fcbc891f31a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (GitApp.SavedRepository) -&gt; GitApp.Repository in GitApp.HomeViewModel.loadSavedData() -&gt; ()"
+                  moduleName = "GitApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/surkumar/Documents/Code/GitApp/GitApp/HomeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
